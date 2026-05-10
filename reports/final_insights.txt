@@ -1,0 +1,24 @@
+BUSINESS INSIGHTS
+
+1. Classic Cars generated the highest sales revenue among all product categories, indicating strong customer demand.
+
+2. Trains recorded the lowest sales performance, suggesting lower customer interest.
+
+3. November achieved the highest monthly sales, indicating strong seasonal demand near year-end.
+
+4. High-value customers contribute a major portion of company revenue.
+
+5. Medium-sized deals generated the highest revenue contribution.
+
+
+BUSINESS RECOMMENDATIONS
+
+1. Increase marketing investment for high-performing categories such as Classic Cars.
+
+2. Improve promotional strategies for low-performing categories like Trains.
+
+3. Build loyalty programs for high-value customers.
+
+4. Prepare inventory and advertisements before peak months like November and December.
+
+5. Focus expansion strategies on high-performing regions.
