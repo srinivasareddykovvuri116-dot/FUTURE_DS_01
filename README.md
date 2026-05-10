@@ -6,7 +6,7 @@
 - Internship Domain: Data Science & Analytics
 - Organization: Future Interns
 - Internship Task: Task 1 - Business Sales Performance Analytics
-- GitHub: 
+- GitHub: https://github.com/srinivasareddykovvuri116-dot
 - LinkedIn: https://www.linkedin.com/in/rudra-satya-srinivasa-reddy-kovvuri-394a16325/
 ---
 
